@@ -1,0 +1,10 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0sxlr.7._.js")
+R.c("server/chunks/ssr/0er~_0ecda4i._.js")
+R.c("server/chunks/ssr/0er~_next_dist_esm_build_templates_app-page_05i9p9a.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0u_r~mk._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0s28qkc._.js")
+R.c("server/chunks/ssr/0er~_next_dist_client_components_builtin_global-error_129vb7k.js")
+R.c("server/chunks/ssr/pos_goodbotai_tech__next-internal_server_app__global-error_page_actions_0v90e56.js")
+R.m(19019)
+module.exports=R.m(19019).exports
